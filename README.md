@@ -2,6 +2,10 @@
 
 This project provides a comprehensive solution for classifying job descriptions into different career levels using Natural Language Processing (NLP) techniques. It features a user-friendly web-based interface built with Streamlit, allowing users to input job details and receive real-time career level predictions. The backend leverages a robust machine learning pipeline for data preprocessing, feature engineering, model training, and evaluation.
 
+And this is simple website to visualize how this module work :  https://career-level-classification.streamlit.app/
+
+![demo](https://drive.google.com/uc?export=view&id=15r-O7VaMC0zZ2GjSNPm2NOIIkLxOk_a3)
+
 **Table of Content**
 1. [Dataset Overview](#dataset-overview)
 2. [Features](#features)
